@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321262311412",
+    "project_id": "salhly-2edb3",
+    "storage_bucket": "salhly-2edb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321262311412:android:04e1bd9e864872b84d4ba1",
+        "android_client_info": {
+          "package_name": "com.example.salhlyy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJMvEqlBcj4BDFsdT4y0VxK8mhCszoU80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
